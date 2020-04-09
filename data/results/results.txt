@@ -1,0 +1,63 @@
+Results on the classifier: FRONTALFACE for the cipher: AES on mode: CBC
+
+img: img_alone_01.jpeg | detection: 1 | compression time: 0,063s | decompression time: 0,002s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: FRONTALFACE for the cipher: AES on mode: CFB
+
+img: img_alone_01.jpeg | detection: 1 | compression time: 0,076s | decompression time: 0,003s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: FRONTALFACE for the cipher: AES on mode: ECB
+
+img: img_alone_01.jpeg | detection: 1 | compression time: 0,079s | decompression time: 0,003s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: FRONTALFACE for the cipher: AES on mode: OFB
+
+img: img_alone_01.jpeg | detection: 1 | compression time: 0,078s | decompression time: 0,002s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: FRONTALFACE for the cipher: DES on mode: CBC
+
+img: img_alone_01.jpeg | detection: 1 | compression time: 0,084s | decompression time: 0,003s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: FRONTALFACE for the cipher: DES on mode: CFB
+
+img: img_alone_01.jpeg | detection: 1 | compression time: 0,09s | decompression time: 0,003s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: FRONTALFACE for the cipher: DES on mode: ECB
+
+img: img_alone_01.jpeg | detection: 1 | compression time: 0,097s | decompression time: 0,003s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: FRONTALFACE for the cipher: DES on mode: OFB
+
+img: img_alone_01.jpeg | detection: 1 | compression time: 0,082s | decompression time: 0,003s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: EYES for the cipher: AES on mode: CBC
+
+img: img_alone_01.jpeg | detection: 2 | compression time: 0,053s | decompression time: 0,003s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: EYES for the cipher: AES on mode: CFB
+
+img: img_alone_01.jpeg | detection: 2 | compression time: 0,06s | decompression time: 0,003s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: EYES for the cipher: AES on mode: ECB
+
+img: img_alone_01.jpeg | detection: 2 | compression time: 0,077s | decompression time: 0,003s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: EYES for the cipher: AES on mode: OFB
+
+img: img_alone_01.jpeg | detection: 2 | compression time: 0,061s | decompression time: 0,003s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: EYES for the cipher: DES on mode: CBC
+
+img: img_alone_01.jpeg | detection: 2 | compression time: 0,061s | decompression time: 0,003s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: EYES for the cipher: DES on mode: CFB
+
+img: img_alone_01.jpeg | detection: 2 | compression time: 0,058s | decompression time: 0,003s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: EYES for the cipher: DES on mode: ECB
+
+img: img_alone_01.jpeg | detection: 2 | compression time: 0,293s | decompression time: 0,003s | img initial dimension: 9kb | img secure dimension: 12kb.
+
+Results on the classifier: EYES for the cipher: DES on mode: OFB
+
+img: img_alone_01.jpeg | detection: 2 | compression time: 0,054s | decompression time: 0,003s | img initial dimension: 9kb | img secure dimension: 12kb.
